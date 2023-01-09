@@ -1,0 +1,25 @@
+{
+  "name": "test-practice",
+  "version": "1.0.0",
+  "description": "The Odin Project Javascript Testing Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amirobinsonmuto/test-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amirobinsonmuto/test-practice/issues"
+  },
+  "homepage": "https://github.com/amirobinsonmuto/test-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "eslint-config-prettier": "^8.5.0",
+    "jest": "^29.3.1"
+  }
+}
